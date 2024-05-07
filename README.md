@@ -18,9 +18,9 @@ In the "Recommend" tab, users can input a book title they are interested in. The
 4.	Access the web app in your browser by navigating to http://localhost:5000.
 
 ## Features
-*Top 50 Books: Display a curated list of the top 50 books based on popularity and user ratings.
-*Personalized Recommendations: Receive personalized book recommendations by entering a book title of interest.
-*Cosine Similarity and Collaborative Filtering: Utilize advanced recommendation algorithms for accurate and relevant book suggestions.
+* Top 50 Books: Display a curated list of the top 50 books based on popularity and user ratings.
+* Personalized Recommendations: Receive personalized book recommendations by entering a book title of interest.
+* Cosine Similarity and Collaborative Filtering: Utilize advanced recommendation algorithms for accurate and relevant book suggestions.
 
 ## Acknowledgments
 Special thanks to Kaggle for providing the book dataset used in this project.
