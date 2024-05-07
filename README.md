@@ -1,5 +1,5 @@
 # Book Recommendation System
-![image](https://github.com/KarishmaKolhe51/BookRecommendationSystem/assets/134826033/ac971d56-1fae-43d0-a349-88a8f3a73960)
+![image](https://github.com/KarishmaKolhe51/BookRecommendationSystem/assets/134826033/42b3c4c6-bfd2-4150-a80e-c4252669e1db)
 
 *Figure: The home page displaying the top 50 books based on popularity.*
 
