@@ -2,7 +2,7 @@
 
 Figure: The home page displaying the top 50 books based on popularity.
 
-# Overview
+#### Overview
 The Book Recommendation System is a Flask-based web application that offers two main features:
 
 # Popularity-Based Recommendation
