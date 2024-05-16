@@ -1,11 +1,10 @@
-# BookBuddy
-# Book Recommendation System
+# Book-Buddy
 ![image](https://github.com/KarishmaKolhe51/BookRecommendationSystem/assets/134826033/42b3c4c6-bfd2-4150-a80e-c4252669e1db)
 
 *Figure: The home page displaying the top 50 books based on popularity.*
 
 ## Overview
-The Book Recommendation System is a Flask-based web application that offers two main features:
+The Personalized Book Recommendation System is a web application that offers two main features:
 
 ## Popularity-Based Recommendation
 The home page displays the top 50 books based on popularity, selected based on their average rating, and at least 150 reviews. This ensures that the recommended books are widely loved and have a substantial number of ratings.
